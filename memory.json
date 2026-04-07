@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "今天天氣好嗎？"
+    },
+    {
+        "role": "assistant",
+        "content": "今天天氣很晴朗！"
+    }
+]

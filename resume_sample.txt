@@ -1,0 +1,2 @@
+张三，有 3 年后端开发经验，熟悉 Python、FastAPI、MySQL、Git，
+做过接口开发和数据处理项目，了解 Docker。
