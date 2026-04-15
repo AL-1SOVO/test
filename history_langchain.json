@@ -1,0 +1,31 @@
+[
+    {
+        "movie_recommendation": {
+            "title": "Mad Max: Fury Road",
+            "director": "George Miller",
+            "release_year": "2015",
+            "genre": "Action, Adventure, Sci-Fi",
+            "plot_summary": "In a dystopian future, a fierce warrior woman is driven by revenge to steal an all-powerful motorbike from a gang of ruthless bikers. When she is forced to outsmart a gang of extreme 60s bikers, and a dysfunctional group of ex-warriors in a relentless chase across the apocalyptic landscape, she realizes she just might be able to arm herself, lead the起义，and save her world from a complete breakdown.",
+            "rating": "9.0/10",
+            "trailer_url": "https://www.youtube.com/watch?v=V6CQ7Zt0m54"
+        }
+    },
+    {
+        "movie_recommendation": {
+            "title": "The Pursuit of Happyness",
+            "genre": "Drama",
+            "release_year": 2006,
+            "director": "Gavin O'Connor",
+            "summary": "A true story of a struggling salesman who turns his life around after losing his job and his home, regaining hope through the love and support of his young son. The film is an inspiring tale of determination and the power of love.",
+            "mood": "Hopeful, Heartwarming, Uplifting"
+        }
+    },
+    {
+        "movie Recommendation": "The Pursuit of Happyness",
+        "description": "This inspiring true story follows Chris Gardner, a struggling salesman who becomes homeless with his young son, and through sheer determination never gives up on his dream to provide a better life for them."
+    },
+    {
+        "recommendation": "A Beautiful Day in the Neighbourhood",
+        "description": "A heartwarming story about a boy and his imaginary friend, exploring themes of kindness and wonder, perfect for a day of reflection and emotional healing."
+    }
+]
