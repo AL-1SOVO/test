@@ -19,7 +19,7 @@ print(f"\n🙋‍♂️ 提問：{user_query}")
 # ==========================================
 # 🌟 檢索優化：帶分數檢索與及格門檻
 # ==========================================
-print("🔍 進行精準檢索 (設定最大 Top-K = 5)...")
+print("🔍 進行精準檢索 (設定最大 Top-K = 9)...")
 
 # 使用 _with_relevance_scores 方法，這會同時回傳「資料」與「相似度分數 (0~1)」
 raw_results = vectorstore.similarity_search_with_relevance_scores(user_query, k=5)
